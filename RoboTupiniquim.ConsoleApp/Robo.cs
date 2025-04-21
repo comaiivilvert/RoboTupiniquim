@@ -1,6 +1,4 @@
-﻿
-
-namespace RoboTupiniquim.ConsoleApp
+﻿namespace RoboTupiniquim.ConsoleApp
 {
     public static class Robo
     {
